@@ -3,6 +3,11 @@ nor-ps1
 
 Simple CLI utility to format custom bash PS1 prompt
 
+TODO
+----
+
+We use [Trello board](//trello.com/b/eytFyiQk/nor-ps1) to organize development and keep track on things to do.
+
 Install the command
 -------------------
 
