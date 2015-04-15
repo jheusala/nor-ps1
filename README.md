@@ -61,3 +61,8 @@ License
 -------
 
 The MIT license, of course.
+
+Commercial Support
+------------------
+
+You can buy commercial support from [Sendanor](http://sendanor.com/software).
